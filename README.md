@@ -1,4 +1,4 @@
-# ai-detecting-cyberbully
+# AI-detecting-cyberbully
 This is the mini-project on 1st semester of 1st year in computer engineering student at KMUTT.
 This project is try to predict the message in the twitter and determine whether it is cyberbully or not using artificial intelligence.
 
